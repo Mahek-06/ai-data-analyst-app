@@ -1,0 +1,13 @@
+customer_id,customer_name,segment,country
+C001,Customer 1,SMB,USA
+C002,Customer 2,Startup,Germany
+C003,Customer 3,Enterprise,UK
+C004,Customer 4,SMB,India
+C005,Customer 5,Startup,USA
+C006,Customer 6,Enterprise,Germany
+C007,Customer 7,SMB,UK
+C008,Customer 8,Startup,India
+C009,Customer 9,Enterprise,USA
+C010,Customer 10,SMB,Germany
+C011,Customer 11,Startup,UK
+C012,Customer 12,Enterprise,India
