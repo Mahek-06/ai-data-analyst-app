@@ -73,7 +73,9 @@ Very large files (hundreds of MB) are not optimised; chart choice is the model's
 - Demo video (10–30 s): https://drive.google.com/file/d/1cSl9x2AOe_MB9XMhY8gzl2pJI433Ct7H/view?usp=drivesdk
 - Live app: _add link_
 
-- ![Monthly sales trends](Sales_Trends.png)
+
+
+![Monthly sales trends](Sales_Trends.png)
 ![Dashboard](Dashboard.png)
 ![Top five customers](Top_five.png)
 >>>>>>> 5befe00 (Initial project submission)
