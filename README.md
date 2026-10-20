@@ -71,7 +71,6 @@ Very large files (hundreds of MB) are not optimised; chart choice is the model's
 ## Screenshots & demo
 - Screenshots: add to `docs/screenshots/` and link here
 - Demo video (10–30 s): https://drive.google.com/file/d/1cSl9x2AOe_MB9XMhY8gzl2pJI433Ct7H/view?usp=drivesdk
-- Live app: _add link_
 
 
 
